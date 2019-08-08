@@ -1,3 +1,6 @@
 This is my class practice for learning git
 I hope I get really great at it
 Can't wait to start working seamlessly in git!
+
+On Monday, the topic was User Interface 1. It was a great lesson
+I was able to do the class project and also a stretch project
