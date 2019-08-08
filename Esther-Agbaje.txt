@@ -1,6 +1,12 @@
+Practicing GIT
 This is my class practice for learning git
 I hope I get really great at it
 Can't wait to start working seamlessly in git!
 
 On Monday, the topic was User Interface 1. It was a great lesson
 I was able to do the class project and also a stretch project
+
+On Tuesday, the topic was User Interface 2. I learnt how to use inline blocks to layout a page. It was initially challenging but I eventually did a great work.
+
+On Wednesday, the topic was User Interface 3. Learnt about flex! Flex is really awesome and makes coding so much fun and way easier! I completed my projects.
+
